@@ -1,4 +1,4 @@
-# Proof-of-Concept Web-based GameBoy Emulator deployed using GitHub Actions to AWS Amplify
+# Proof of Concept Web-based GameBoy Emulator deployed using GitHub Actions to AWS Amplify
 
 ### Check out the app [here!](https://dev1880.dycxslhhfqvr7.amplifyapp.com/)
 
